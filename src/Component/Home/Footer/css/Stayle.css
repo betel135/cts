@@ -1,0 +1,78 @@
+.page-footer{
+  background-color: black;
+  
+}
+.footer ul  {
+  display: grid;
+  grid-template-columns: repeat(3, auto);
+
+}
+.right{
+  margin-right: 400px;
+  
+  
+}
+.contact_email{
+  width: 200px;
+  height: 30px;
+  border: 1px solid gray;
+  background-color: gray;
+  display: inline-flex;
+  display: inline-flex;
+ 
+}
+
+.col ul li{
+  display: flex;
+  font-size: 14px;
+  column-count: 0;
+
+}
+.logo{
+ 
+  display: inline-flex;
+  margin-left: 300px;
+
+}
+
+#email-input{
+  width: 200px;
+  height: 30px;
+  border: 1px solid gray;
+  background-color: gray;
+
+}
+.img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+ }
+ .img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+ }
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
