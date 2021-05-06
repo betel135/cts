@@ -32,7 +32,7 @@ export default function MediaCard() {
       <CardActionArea>
         <CardMedia
           className={classes.media}
-          image="https://th.bing.com/th/id/R4583836eaa82de752d0bb636825c15c0?rik=N8xvHJrJqs6V7A&riu=http%3a%2f%2fwww.nielsenanimal.com%2fwp-content%2fuploads%2f2018%2f09%2fmens-nike-lunar-converge-running-shoes-blackvolt-trainers.jpg&ehk=fPnX6YcY0HImJrdaWvlHg0IDEY215C2aFdU98nFREsk%3d&risl=&pid=ImgRaw"
+          image="https://images.footlocker.com/is/image/EBFL2/21826015_a1?wid=519&hei=519&fmt=png-alpha"
           title="Contemplative Reptile"
         />
         <CardContent>
@@ -58,7 +58,7 @@ export default function MediaCard() {
       <CardActionArea>
         <CardMedia
           className={classes.media}
-          image="https://m.media-amazon.com/images/I/71DcDSBleRL._AC_SR700,525_.jpg"
+          image="https://images.footlocker.com/is/image/EBFL2/1B108100_a1?wid=519&hei=519&fmt=png-alpha"
           title="Contemplative Reptile"
         />
         <CardContent>
@@ -82,7 +82,7 @@ export default function MediaCard() {
       <CardActionArea>
         <CardMedia
           className={classes.media}
-          image="https://www.newshoes2019.us/images/large/images18/Mens-and-WMNS-Nike-Epic-React-Flyknit-Triple-White-Mens-Running-Shoes_2.jpg"
+          image="https://images.footlocker.com/is/image/EBFL2/1A862100_a1?wid=519&hei=519&fmt=png-alpha"
           title="Contemplative Reptile"
         />
         <CardContent>
@@ -109,7 +109,7 @@ export default function MediaCard() {
       <CardActionArea>
         <CardMedia
           className={classes.media}
-          image="https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy/ef16e313896247dca956ac4e00c4d9c1_9366/adidas_x_LEGO(r)_Sport_Shoes_Yellow_FY8439_01_standard.jpg"
+          image="https://images.footlocker.com/is/image/EBFL2/GX0194_a1?wid=519&hei=519&fmt=png-alpha"
           title="Contemplative Reptile"
         />
         <CardContent>
@@ -135,7 +135,7 @@ export default function MediaCard() {
       <CardActionArea>
         <CardMedia
           className={classes.media}
-          image="https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy/73c7b15474994b22aab1ac5a0158dfcf_9366/NMD_R1_Shoes_Black_S42837_01_standard.jpg"
+          image="https://images.footlocker.com/is/image/EBFL2/W3130100_a1?wid=519&hei=519&fmt=png-alpha"
           title="Contemplative Reptile"
         />
         <CardContent>
@@ -159,7 +159,7 @@ export default function MediaCard() {
       <CardActionArea>
         <CardMedia
           className={classes.media}
-          image="https://images.stylight.net/image/upload/e_trim/t_web_product_330x440max_nobg/q_auto:eco,f_auto/hrqsu6wrqeglhhe2lmxf.jpg"
+          image="https://images.footlocker.com/is/image/EBFL2/GX7925_a1?wid=519&hei=519&fmt=png-alpha"
           title="Contemplative Reptile"
         />
         <CardContent>
@@ -185,7 +185,7 @@ export default function MediaCard() {
       <CardActionArea>
         <CardMedia
           className={classes.media}
-          image="https://cdn.shopify.com/s/files/1/0840/5283/products/43840-A_900x.jpg?v=1614293767"
+          image="https://images.footlocker.com/is/image/EBFL2/EG7728_a1?wid=519&hei=519&fmt=png-alpha"
           title="Contemplative Reptile"
         />
         <CardContent>
@@ -211,7 +211,7 @@ export default function MediaCard() {
       <CardActionArea>
         <CardMedia
           className={classes.media}
-          image="https://images.stylight.net/image/upload/e_trim/t_web_product_330x440max_nobg/q_auto:eco,f_auto/lipuaqdhk2x4grl6dzee.jpg"
+          image="https://images.footlocker.com/is/image/EBFL2/Q5397101_a1?wid=519&hei=519&fmt=png-alpha"
           title="Contemplative Reptile"
         />
         <CardContent>
@@ -235,7 +235,7 @@ export default function MediaCard() {
       <CardActionArea>
         <CardMedia
           className={classes.media}
-          image="https://images.stylight.net/image/upload/e_trim/t_web_product_330x440max_nobg/q_auto:eco,f_auto/ytd1cb1yn3ofxlrwdes4.jpg"
+          image="https://images.footlocker.com/is/image/EBFL2/5018002_a1?wid=519&hei=519&fmt=png-alpha"
           title="Contemplative Reptile"
         />
         <CardContent>

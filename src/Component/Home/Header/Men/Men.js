@@ -81,7 +81,7 @@ export default function MediaCard() {
       <CardActionArea>
         <CardMedia
           className={classes.media}
-          image="https://www.newshoes2019.us/images/large/images18/Mens-and-WMNS-Nike-Epic-React-Flyknit-Triple-White-Mens-Running-Shoes_2.jpg"
+          image="https://images.footlocker.com/is/image/EBFL2/D2737001_a1?wid=519&hei=519&fmt=png-alpha"
           title="Contemplative Reptile"
         />
         <CardContent>

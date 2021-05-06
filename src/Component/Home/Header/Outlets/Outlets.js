@@ -1,5 +1,5 @@
-import react from 'react'
-class Outlet extends react.Component{
+import React from 'react'
+class Outlet extends React.Component{
     render(){
         return(
             <div> 

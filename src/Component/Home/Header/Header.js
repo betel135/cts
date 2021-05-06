@@ -15,11 +15,12 @@ class Header extends react.Component{
       <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons"></i></a>
       
       <ul id="nav-mobile" class="right hide-on-med-and-down">
-                <li><a href="+92348-1114747"><b>+92348-1114747</b></a></li>
+     
+                <li class=""><Link to="/+92348-1114747"><b>+92348-1114747</b></Link></li>
                 <li><a href="CUSTOMERSERVICE"><b>CUSTOMER SERVICE</b></a></li>
                 <li><a href="FAQS"><b>FAQS</b></a></li>
                 <li><a href="FIND A STORE"><b>FIND A STORE</b></a></li>
-                <li><a href="LOGIN"><b>LOGIN</b></a>
+                <li><a href="Login"><b>LOGIN</b></a>
                 </li>
                 
                 
@@ -62,7 +63,7 @@ class Header extends react.Component{
             <li><a href="CUSTOMERSERVICE"><b>CUSTOMERSERVICE</b></a></li>
             <li><a href="FAQS"><b>FAQS</b></a></li>
             <li><a href="FIND A STORE"><b>FIND A STORE</b></a></li>
-            <li><a href="LOGIN"><b>LOGIN</b></a></li>
+            <li><a href="Login"><b>LOGIN</b></a></li>
           </ul>
      </div>
      
